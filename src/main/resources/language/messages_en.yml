@@ -15,8 +15,6 @@ Help:
   Footer: '&7---------- | &cNoVillagers &7|----------'
 
 Errors:
-  AlreadyEnabled: '%prefix% &cCheck is already enabled!'
-  AlreadyDisabled: '%prefix% &cCheck is already disabled!'
   AlreadyDebugEnabled: '%prefix% &cDebug is already enabled!'
   AlreadyDebugDisabled: '%prefix% &cDebug is already disabled!'
 

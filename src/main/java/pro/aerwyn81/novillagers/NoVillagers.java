@@ -51,7 +51,7 @@ public final class NoVillagers extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        log.sendMessage(Utils.parseColor("&cNoVillagers disabled!"));
+        log.sendMessage(Utils.parseColor("[NoVillagers] &cNoVillagers disabled!"));
     }
 
     public static NoVillagers getInstance() {
