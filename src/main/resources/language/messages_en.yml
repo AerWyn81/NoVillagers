@@ -1,0 +1,31 @@
+Prefix: '&4&lN&co&4&lV&cillagers &7|'
+
+Commands:
+  NoPerms: '%prefix% &cYou dont have permissions to use this command.'
+  Reload: '%prefix% &aPlugin reloaded without errors.'
+  Unknown: '%prefix% &cInvalid command, use /nv to see available commands.'
+  PlayerOnly: '%prefix% &cOnly player can run this command.'
+
+Help:
+  Header: '&7---------- | &cNoVillagers &7|----------'
+  Spacer1: ''
+  ReloadCommand: '&7/nv reload » &e&oReload configuration'
+  DebugCommand: '&7/nv debug true/false » &e&oEnable debug messages'
+  Spacer2: ''
+  Footer: '&7---------- | &cNoVillagers &7|----------'
+
+Errors:
+  AlreadyEnabled: '%prefix% &cCheck is already enabled!'
+  AlreadyDisabled: '%prefix% &cCheck is already disabled!'
+  AlreadyDebugEnabled: '%prefix% &cDebug is already enabled!'
+  AlreadyDebugDisabled: '%prefix% &cDebug is already disabled!'
+
+Console:
+  ErrorWorldNotFound: '%world% defined in configuration does not exist on this server!'
+
+Messages:
+  DebugEnabled: '%prefix% &aPlugin debug enabled!'
+  DebugDisabled: '%prefix% &cPlugin debug disabled!'
+
+Debug:
+  Message: '&cRemoved &e1 &cvillager &7(&e%location%&7)'

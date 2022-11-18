@@ -1,0 +1,20 @@
+# Language of messages
+language: en
+
+# Enabled villagers spawn in a world or regions
+# Example:
+# allowedVillagerWorlds:
+# - world1:
+# - world2:
+allowedVillagerWorlds: []
+
+# Enabled villagers trade in a world or regions
+# If you allow a specific world or region to allow trading, you have to register the world name in AllowVillagers else villagers wont spawn!
+# Example:
+# allowedTradeWorlds:
+# - world1:
+# - world2:
+allowedTradeWorlds: []
+
+# Show messages when villager is removed and some other stuff
+debug: false
